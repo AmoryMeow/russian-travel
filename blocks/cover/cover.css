@@ -1,0 +1,28 @@
+.cover {
+  box-sizing: border-box;
+  margin: 0 48px;
+  min-height: 740px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+@media (max-width: 1024px) {
+  .cover {
+    min-height: 640px;
+    margin: 0;
+  }
+}
+@media (max-width: 768px) {
+  .cover {
+    min-height: 480px;
+  }
+}
+
+@media (max-width: 425px) {
+  .cover {
+    min-height: 200px;
+  }
+}

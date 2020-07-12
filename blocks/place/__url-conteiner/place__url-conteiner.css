@@ -1,0 +1,11 @@
+.place__url-conteiner {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+@media (max-width: 425px) {
+  .place__url-conteiner  {
+    display: none;
+  }
+}

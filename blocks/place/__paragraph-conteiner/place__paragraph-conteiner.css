@@ -1,0 +1,6 @@
+.place__paragraph-conteiner {
+  display: grid;
+  grid-row-gap: 24px;
+}
+
+
