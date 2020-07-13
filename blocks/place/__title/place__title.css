@@ -4,6 +4,8 @@
   line-height: 1.06;
   font-style: normal;
   font-weight: 900;
+  padding-right: 10px; /*для корректного переноса строки как в макете, т.к. текст влезает при заданной ширине*/
+  box-sizing: border-box;
 }
 
 @media (max-width: 768px) {
