@@ -51,32 +51,3 @@
   background-color: #2A2C2F;
   color: #fff;
 }
-/*
-* {
-  outline: 1px red solid;
-}
-
-@media (max-width:1280px) {
-  * {
-    outline: 1px solid fuchsia;
-  }
-}
-
-@media (max-width:1024px) {
-  * {
-    outline: 1px solid blue;
-  }
-}
-
-@media (max-width:768px) {
-  * {
-    outline: 1px solid green;
-  }
-}
-
-@media (max-width:425px) {
-  * {
-    outline: 1px solid yellow;
-  }
-}*/
-
