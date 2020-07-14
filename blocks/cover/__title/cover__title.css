@@ -5,14 +5,17 @@
   font-weight: 900;
   font-style: normal;
   z-index: 3;
-  width: 560px;
+  max-width: 560px;
+  width: 100%;
   text-align: center;
+  box-sizing: border-box;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 768=7px) {
   .cover__title {
-    width: 288px;
+    max-width: 288px;
     font-size: 32px;
     line-height: 1.09;
+    padding: 0 30px;
   }
 }

@@ -6,5 +6,7 @@
   font-size: 12px;
   line-height: 1.5;
   font-style: normal;
-  font-weight: bold;
+  font-weight: normal;
+  max-width: 690px;
+  width: 100%;
 }
