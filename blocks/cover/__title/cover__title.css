@@ -11,7 +11,7 @@
   box-sizing: border-box;
 }
 
-@media (max-width: 768=7px) {
+@media (max-width: 767px) {
   .cover__title {
     max-width: 288px;
     font-size: 32px;

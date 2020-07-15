@@ -4,3 +4,9 @@
   margin: 0 auto;
 }
 
+@media (max-width: 767px) {
+  .place__image {
+    max-height: 320px;
+    object-fit: cover;
+  }
+}
